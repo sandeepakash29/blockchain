@@ -38,26 +38,26 @@
 * There are different types of smart contracts depending on their complexity, use cases, and underlying platforms
   
 1.**Simple Smart contract**
-Definition: Smart contracts designed to facilitate financial transactions on decentralized platforms, such as lending, borrowing, trading, and asset management, without intermediaries like banks or brokers.
-Use Case: They automate various financial services like loans, staking, and liquidity provision.
-Examples:
-Lending contracts: A smart contract that allows a user to lend tokens and automatically receives interest.
-Automated Market Makers (AMMs): Contracts like those used in decentralized exchanges (DEXs) such as Uniswap that automatically set prices and facilitate trades based on liquidity pools.
+* Definition: Smart contracts designed to facilitate financial transactions on decentralized platforms, such as lending, borrowing, trading, and asset management, without intermediaries like banks or brokers.
+* Use Case: They automate various financial services like loans, staking, and liquidity provision.
+* Examples:
+  * Lending contracts: A smart contract that allows a user to lend tokens and automatically receives interest.
+  * Automated Market Makers (AMMs): Contracts like those used in decentralized exchanges (DEXs) such as Uniswap that automatically set prices and facilitate trades based on liquidity pools.
 
 2.**Decentralized Finance (DeFi) Smart Contracts**
-Definition: Smart contracts designed to facilitate financial transactions on decentralized platforms, such as lending, borrowing, trading, and asset management, without intermediaries like banks or brokers.
-Use Case: They automate various financial services like loans, staking, and liquidity provision.
-Examples:
-Lending contracts: A smart contract that allows a user to lend tokens and automatically receives interest.
-Automated Market Makers (AMMs): Contracts like those used in decentralized exchanges (DEXs) such as Uniswap that automatically set prices and facilitate trades based on liquidity pools.
+* Definition: Smart contracts designed to facilitate financial transactions on decentralized platforms, such as lending, borrowing, trading, and asset management, without intermediaries like banks or brokers.
+* Use Case: They automate various financial services like loans, staking, and liquidity provision.
+* Examples:
+  * Lending contracts: A smart contract that allows a user to lend tokens and automatically receives interest.
+  * Automated Market Makers (AMMs): Contracts like those used in decentralized exchanges (DEXs) such as Uniswap that automatically set prices and facilitate trades based on liquidity pools.
 
 3.**Non-Fungible Token (NFT) Smart Contracts**
-Definition: These smart contracts govern the creation, transfer, and management of non-fungible tokens (NFTs). NFTs are unique digital assets that represent ownership of a specific item, artwork, or collectible.
-Use Case: Digital art, gaming assets, collectibles, intellectual property, and digital ownership.
-Example: A smart contract that mints an NFT representing ownership of a digital artwork and facilitates the transfer of ownership between users.
+* Definition: These smart contracts govern the creation, transfer, and management of non-fungible tokens (NFTs). NFTs are unique digital assets that represent ownership of a specific item, artwork, or collectible.
+* Use Case: Digital art, gaming assets, collectibles, intellectual property, and digital ownership.
+* Example: A smart contract that mints an NFT representing ownership of a digital artwork and facilitates the transfer of ownership between users.
 
 4.**Governance Smart Contracts**
-Definition: These are used in decentralized organizations (DAOs) to enable governance decisions based on votes from stakeholders. They allow participants to propose and vote on changes to the network or platform (e.g., protocol upgrades, funding proposals).
-Use Case: Governance in decentralized autonomous organizations (DAOs), voting systems, and protocol upgrades.
-Example: In a DAO, token holders vote on decisions regarding the project's future, and a governance smart contract implements the outcome of these votes automatically (e.g., allocating funds for a specific project).
+* Definition: These are used in decentralized organizations (DAOs) to enable governance decisions based on votes from stakeholders. They allow participants to propose and vote on changes to the network or platform (e.g., protocol upgrades, funding proposals).
+* Use Case: Governance in decentralized autonomous organizations (DAOs), voting systems, and protocol upgrades.
+* Example: In a DAO, token holders vote on decisions regarding the project's future, and a governance smart contract implements the outcome of these votes automatically (e.g., allocating funds for a specific project).
 
